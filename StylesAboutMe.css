@@ -1,0 +1,33 @@
+body{
+	background: url("ocean.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	text-align:center;
+}
+
+#para1{
+	text-align:center;
+	font-size:25px;
+}
+
+#para2{
+	text-align:center;
+	font-size:15px;
+}
+
+#para3{
+	text-align:center;
+}
+
+#a2{
+	text-align:right;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
